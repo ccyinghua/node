@@ -15,7 +15,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-*.js linguist-language=Node
-*.css linguist-language=Node
-*.html linguist-language=Node
